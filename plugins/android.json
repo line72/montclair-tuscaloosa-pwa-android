@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-hostedwebapp": {
+            "PACKAGE_NAME": "net.line72.montclair"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "net.line72.montclair"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "net.line72.montclair"
+        }
+    }
+}

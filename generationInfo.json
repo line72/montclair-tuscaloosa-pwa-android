@@ -1,0 +1,10 @@
+{
+    "generationTool": "pwabuilder-api",
+    "generationToolVersion": "2.0.1-rc.0",
+    "platformId": "cordova",
+    "platformPackage": "pwabuilder-cordova",
+    "platformVersion": "2.0.0-rc.1",
+    "generatedFrom": "Website Wizard",
+    "generationDate": "2018-07-28 14:15:38 Z",
+    "generatedURL": "https://montclair.line72.net/manifest.json"
+}
