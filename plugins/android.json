@@ -1,22 +1,11 @@
 {
-    "prepare_queue": {
-        "installed": [],
-        "uninstalled": []
-    },
-    "config_munge": {
-        "files": {}
-    },
-    "installed_plugins": {
-        "cordova-plugin-hostedwebapp": {
-            "PACKAGE_NAME": "com.gotransitapp.tuscaloosa"
-        },
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.gotransitapp.tuscaloosa"
-        }
-    },
-    "dependent_plugins": {
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.gotransitapp.tuscaloosa"
-        }
-    }
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {},
+  "dependent_plugins": {}
 }

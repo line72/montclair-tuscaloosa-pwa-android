@@ -1,3 +1,18 @@
+1.2.0 (7)
+==========
+2023-08-23  Marcus Dillavou  <line72@line72.net>
+	* ISSUE-7 - Update Cordova
+
+1.0.4 (6)
+==========
+2023-08-23  Marcus Dillavou  <line72@line72.net>
+	* ISSUE-5 - Remove usage of set-env in github action
+
+1.0.3 (5)
+==========
+2023-08-23  Marcus Dillavou  <line72@line72.net>
+	* ISSUE-3 - Bump targetSdkVersion to 33
+
 1.0.2 (4)
 ==========
 2019-12-30  Marcus Dillavou  <line72@line72.net>

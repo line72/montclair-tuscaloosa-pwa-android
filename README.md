@@ -10,3 +10,14 @@ https://github.com/line72/montclair-pwa-android
 ## License
 
 GPLv3
+
+## Releases
+
+Releases are automatically built by github actions and are uploaded as
+a release. However, the releases are un-aligned and un-signed, so they
+need to be manually fixed:
+
+```
+zipalign 4 montclair-pwa-android-1.0.2-2-release-unsigned.apk montclair-pwa-android-1.0.2-2-release.apk
+apksigner sign --ks release-key.keystore --ks-key-alias montclair montclair-pwa-android-1.0.2-2-release.apk
+```
